@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+altair
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+category_encoders
